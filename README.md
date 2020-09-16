@@ -2,3 +2,5 @@
 
 # covid-detector
 Detect covid-19 in an image using cutting edge deep learning model.
+
+You can run it either using binder or [Heroku](https://young-castle-22958.herokuapp.com/)
